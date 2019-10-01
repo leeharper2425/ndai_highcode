@@ -1,0 +1,16 @@
+﻿Field Name,Description
+age,Age in years
+workclass,"Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked"
+fnlwgt,Statistical final weight
+education,Level of education
+education-num,Number of years spent in education
+ marital-status,Marital status of the individual
+occupation,Job that a person declares to have
+relationship,Relationship of census responder to family
+race,Racial group that the responder idenfied as
+sex,Sex of the respondant
+capital-gain,income gain through investments
+capital-loss,income loss through investments
+hours-per-week,number of hours worked per week
+native-country,Country of origin - the vast majority of entires are from the United States
+income,Is the peron earning more or less than 50k?

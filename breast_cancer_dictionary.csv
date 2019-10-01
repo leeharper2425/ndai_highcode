@@ -1,0 +1,10 @@
+﻿Field Name,Description,Range
+pregnancies,Number of pregnancies,0-17
+glucose,Plasma glucose concentration a 2 hours in an oral glucose tolerance test,1-199
+bp,Diastolic blood pressure,0-122
+skin thickness,Triceps skin fold thickness (mm),0-99
+insulin,2-hour serum insulin concentration,0-846
+bmi,Body mass index,0-67
+dpf,Diabetes pedigree function,0-2.45
+Age,Age of individual in years,21-81
+Outcome,Positive / negative test for breat cancer,0 or 1
